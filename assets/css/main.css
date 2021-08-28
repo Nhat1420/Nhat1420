@@ -148,6 +148,7 @@ body {
   box-shadow: #e03c29;
 }
 
+.header__item-logout,
 .header__item-user-name {
   margin-left: 6px;
   font-size: 1.33rem;
@@ -793,6 +794,7 @@ body {
   width: 432px;
   padding: 30px 30px 0 30px;
   border-radius: 4px;
+  z-index: 3;
 }
 
 .form__head {
